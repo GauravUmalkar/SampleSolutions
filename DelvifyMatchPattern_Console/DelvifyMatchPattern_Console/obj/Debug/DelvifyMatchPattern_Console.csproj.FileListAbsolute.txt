@@ -1,0 +1,8 @@
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\bin\Debug\DelvifyMatchPattern_Console.exe.config
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\bin\Debug\DelvifyMatchPattern_Console.exe
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\bin\Debug\DelvifyMatchPattern_Console.pdb
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\obj\Debug\DelvifyMatchPattern_Console.csproj.CoreCompileInputs.cache
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\obj\Debug\DelvifyMatchPattern_Console.exe
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\obj\Debug\DelvifyMatchPattern_Console.pdb
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\bin\Debug\WishList.txt
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyMatchPattern_Console\obj\Debug\DelvifyMatchPattern_Console.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+can you translate {word} in chinese
+i would like to translate {word}
+i wish to translate {word}

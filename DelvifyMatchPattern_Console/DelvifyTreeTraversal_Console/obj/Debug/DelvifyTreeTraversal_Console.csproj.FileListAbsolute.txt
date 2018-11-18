@@ -1,0 +1,7 @@
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\bin\Debug\DelvifyTreeTraversal_Console.exe.config
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\bin\Debug\DelvifyTreeTraversal_Console.exe
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\bin\Debug\DelvifyTreeTraversal_Console.pdb
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\obj\Debug\DelvifyTreeTraversal_Console.csprojResolveAssemblyReference.cache
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\obj\Debug\DelvifyTreeTraversal_Console.csproj.CoreCompileInputs.cache
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\obj\Debug\DelvifyTreeTraversal_Console.exe
+c:\users\gauravumalkar\documents\visual studio 2017\Projects\DelvifyMatchPattern_Console\DelvifyTreeTraversal_Console\obj\Debug\DelvifyTreeTraversal_Console.pdb
